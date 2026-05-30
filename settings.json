@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Ridam",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "pvp-111.aternos.me",
@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 5,
+      "repeat-delay": 500,
       "messages": [
         "I love u ali",
         "i am ali lover!",
@@ -41,8 +41,8 @@
     "max-reconnect-delay": 1001,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 10000,
-      "max-interval": 10001
+      "min-interval": 1000,
+      "max-interval": 1000
     }
   },
   "movement": {
