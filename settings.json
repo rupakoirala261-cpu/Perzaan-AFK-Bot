@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Ridam",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "skydimesmp.qzz.io",
-    "port":51997,
-    "version": "26.1.2"
+    "ip": "pvp-111.aternos.me:36865",
+    "port":36865,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I love u aliz",
+        "very love u aliz!",
+        "heartly love since 1 year!"
       ]
     },
     "chat-log": true,
