@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "pvp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "pvp-111.aternos.me",
+    "ip": "pvp-111.aternos.me:36865",
     "port": 36865,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
