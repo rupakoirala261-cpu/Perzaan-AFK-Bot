@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "pvp",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "pvp-111.aternos.me",
@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5,
       "messages": [
         "I'm a regular player",
         "Subscribe to Perzaan Gaming!",
@@ -37,12 +37,12 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 2,
+    "max-reconnect-delay": 20,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 20,
-      "max-interval": 60
+      "min-interval": 2,
+      "max-interval": 6
     }
   },
   "movement": {
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1
     }
   },
   "modules": {
@@ -81,7 +81,7 @@
     "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
