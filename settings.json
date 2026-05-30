@@ -41,8 +41,8 @@
     "max-reconnect-delay": 20,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 2,
-      "max-interval": 6
+      "min-interval": 0,
+      "max-interval": 0
     }
   },
   "movement": {
@@ -54,11 +54,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 0
     },
     "random-jump": {
       "enabled": true,
-      "interval": 1
+      "interval": 0
     }
   },
   "modules": {
