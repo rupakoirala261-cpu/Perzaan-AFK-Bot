@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pvp-111.aternos.me:36865",
+    "ip": "pvp-111.aternos.me",
     "port": 36865,
     "version": "1.21.11"
   },
