@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "pvp",
+    "username": "Ridam",
     "password": "",
     "type": "online"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 5,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I love u ali",
+        "i am ali lover!",
+        "I like ali!"
       ]
     },
     "chat-log": true,
