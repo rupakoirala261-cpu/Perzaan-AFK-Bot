@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Rdam",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "pvp-111.aternos.me:36865",
+    "port": 36865,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,19 +30,19 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I'm ridam",
+        "i love alizina!",
+        "I like to stay with alizina!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 1,
+    "max-reconnect-delay": 1,
     "periodic-rejoin": {
-      "enabled": true,
-      "min-interval": 20,
-      "max-interval": 60
+      "enabled": false,
+      "min-interval": 2,
+      "max-interval": 6
     }
   },
   "movement": {
@@ -54,7 +54,7 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 10000
     },
     "random-jump": {
       "enabled": true,
